@@ -1,0 +1,6 @@
+node_modules
+dist
+build
+bun.lockb
+# bunx prettier --check .
+# bunx prettier --write .
